@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423845426192",
+    "project_id": "updatefooddelivery",
+    "storage_bucket": "updatefooddelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423845426192:android:61ceb5623d057dafd08695",
+        "android_client_info": {
+          "package_name": "com.example.shivam_food_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOo-bt1-hYXqjobo_15p6fSSo6vBYTC5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
